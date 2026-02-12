@@ -1,4 +1,4 @@
 # Harshraj-Git-Demo
 this is my 1st git repo.
 <br>
-Author- (Harshraj chandrashekhar chaudhari)
+Author- I AM (Harshraj chandrashekhar chaudhari)
